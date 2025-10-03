@@ -1,7 +1,7 @@
 # GUESS IT! 
 
 # Deskripsi
-Program Tebak Kata merupakan permainan interaktif yang menguji kemampuan pemain dalam menebak kata-kata berdasarkan petunjuk atau deskripsi yang diberikan. Dalam permainan ini pemain akan diberikan sejumlah petunjuk secara bertahap, dan pemain harus menjawab dengan benar sebelum waktu atau kesempatan habis. Tingkat kesulitan dapat disesuaikan. 
+Program Tebak Kata merupakan permainan interaktif yang menguji kemampuan pemain dalam menebak kata-kata berdasarkan petunjuk atau deskripsi yang diberikan. Dalam permainan ini pemain akan diberikan sejumlah petunjuk secara bertahap, dan pemain harus menjawab dengan benar sebelum waktu atau kesempatan habis.
 
 Fitur-fitur Umum dalam Program Tebak Kata:
 
